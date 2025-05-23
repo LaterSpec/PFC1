@@ -3,7 +3,7 @@ Implementaciones
 
 ## Ejecución de HippoRAG
 
-Este es un ejemplo de salida al ejecutar el script principal con los parámetros de prueba:
+Este es un ejemplo de salida al ejecutar el script principal con los parámetros de prueba, este dataset de prueba puede ser visto en HippoRAG/reproduce/dataset/sample.json:
 
 ```bash
 $ python3 main.py --dataset sample --llm_base_url https://api.openai.com/v1 --llm_name gpt-4o-mini --embedding_name nvidia/NV-Embed-v2
