@@ -15,6 +15,7 @@ SURE/requirements.txt
 SURE/retrieve.py
 SURE/utils.py
 SURE/.env
+SURE/sure_notebook.html
 
 # HIPPO-RAG
 HippoRAG/reproduce/
