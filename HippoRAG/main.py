@@ -8,6 +8,8 @@ from src.hipporag.utils.config_utils import BaseConfig
 
 import argparse
 
+
+
 # os.environ["LOG_LEVEL"] = "DEBUG"
 os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
